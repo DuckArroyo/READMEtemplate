@@ -48,12 +48,13 @@ npm start or node server
 
 DeveloperDuckArroyo
 
-GitHub [GitHub](https://github.com/DuckArroyo)
+[GitHub](https://github.com/DuckArroyo)
 
-Twitter [@DevDuckArroyo](https://twitter.com/DevDuckArroyo)
+[Twitter @DevDuckArroyo](https://twitter.com/DevDuckArroyo)
 
-LinkeIn [Rafael Arroyo](https://www.linkedin.com/in/duckarroyo/)
+[LinkeIn](https://www.linkedin.com/in/duckarroyo/)
 
+[CodePen](https://codepen.io/DeveloperDuckArroyo)
 # Screnshots
 
 <img src="./.png" style="width: 400px">

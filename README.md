@@ -48,7 +48,7 @@ npm start or node server
 
 DeveloperDuckArroyo
 
-Portfolio [Page](https://duckarroyo.github.io/challenge2/)
+[Portfolio](https://duckarroyo.github.io/challenge2/)
 
 [GitHub](https://github.com/DuckArroyo)
 

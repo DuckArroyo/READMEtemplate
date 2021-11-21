@@ -12,7 +12,7 @@ Github Pages [Link]()
 
 Github Repository [Link]()
 
-Heroku [Link](https://sleepy-caverns-39452.herokuapp.com//)
+Heroku [Link]()
 
 # Description
 
@@ -47,6 +47,8 @@ npm start or node server
 # Contributions by:
 
 DeveloperDuckArroyo
+
+Portfolio [Page](https://duckarroyo.github.io/challenge2/)
 
 [GitHub](https://github.com/DuckArroyo)
 

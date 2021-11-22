@@ -1,12 +1,10 @@
-# Project name
+# Project name ![GitHublicense](https://img.shields.io/npm/l/express?style=for-the-badge)
 
 ## UO Coding bootcamp Challenge
 
-![GitHublicense](https://img.shields.io/npm/l/express?style=for-the-badge)
+Bootcamp Module 10
 
 ## Links
-
-## Deployed application Heroku
 
 Github Pages [Link]()
 
@@ -16,11 +14,13 @@ Heroku [Link]()
 
 ## Description
 
-## Project Guidelines/Requirements
-
 ## Required installations for code duplication
 
 npm - npm install
+
+fs - npm install file-system --save
+
+inquirer - npm install inquirer
 
 express - npm install express
 sequelize - npm install sequelize
@@ -58,6 +58,8 @@ DeveloperDuckArroyo
 [LinkeIn](https://www.linkedin.com/in/duckarroyo/)
 
 [CodePen](https://codepen.io/DeveloperDuckArroyo)
+
+[Email](mailto:DeveloperDuckArroyo@gmail.com)
 
 # Screnshots
 

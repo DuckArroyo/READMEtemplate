@@ -1,10 +1,10 @@
 # Project name
 
+## UO Coding bootcamp Challenge
+
 ![GitHublicense](https://img.shields.io/npm/l/express?style=for-the-badge)
 
-UO Coding bootcamp [Project name]
-
-# Links
+## Links
 
 ## Deployed application Heroku
 
@@ -14,9 +14,9 @@ Github Repository [Link]()
 
 Heroku [Link]()
 
-# Description
+## Description
 
-# Project Guidelines/Requirements
+## Project Guidelines/Requirements
 
 ## Required installations for code duplication
 
@@ -36,13 +36,14 @@ express-sessions - npm i express-session
 
 connect-session-sequelize - npm i connect-session-sequelize
 
-## Run server
+## The commandments
 
-npm start or node server
-
-## database and seeds need to be completed
-
+"scripts": {
+"watch": "nodemon server.js",
+"test": "jest",
+"start": "node server.js",
 "seed": "node seeds/index.js"
+},
 
 # Contributions by:
 
@@ -57,6 +58,7 @@ DeveloperDuckArroyo
 [LinkeIn](https://www.linkedin.com/in/duckarroyo/)
 
 [CodePen](https://codepen.io/DeveloperDuckArroyo)
+
 # Screnshots
 
 <img src="./.png" style="width: 400px">

@@ -2,7 +2,6 @@
 
 ## UO Coding bootcamp Challenge
 
-Bootcamp Module 10
 
 ## Links
 

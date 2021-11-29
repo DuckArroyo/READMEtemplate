@@ -17,23 +17,27 @@ Heroku [Link]()
 
 npm - npm install
 
-fs - npm install file-system --save
-
-inquirer - npm install inquirer
-
-express - npm install express
-sequelize - npm install sequelize
-mysql2 - npm install mysql2
-
 .env - npm install dotenv
 
 bcrypt - npm install bcrypt
 
+Connect-session-sequelize - npm i connect-session-sequelize
+
 Express Handlebars - npm install express-handlebars
 
-express-sessions - npm i express-session
+Express-sessions - npm i express-session
 
-connect-session-sequelize - npm i connect-session-sequelize
+express - npm install express
+
+fs - npm install file-system --save
+
+inquirer - npm install inquirer
+
+Mongoose - npm install mongoose
+
+mysql2 - npm install mysql2
+
+sequelize - npm install sequelize
 
 ## The commandments
 

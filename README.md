@@ -5,9 +5,7 @@
 ## UO Coding bootcamp Challenge
 
 
-
 ## Description
-
 
 
 ## Links

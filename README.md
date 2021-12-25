@@ -5,15 +5,18 @@
 ## UO Coding bootcamp Challenge
 
 
-## Links
-
-Github Pages [Link]()
-
-Github Repository [Link]()
-
-Heroku [Link]()
 
 ## Description
+
+
+
+## Links
+
+[Github Pages]()
+
+[Github Repository]()
+
+[Heroku]()
 
 ## Required installations for code duplication
 
@@ -54,6 +57,8 @@ sequelize - npm install sequelize
 
 DeveloperDuckArroyo
 
+[Email](mailto:DeveloperDuckArroyo@gmail.com)
+
 [Portfolio](https://duckarroyo.github.io/challenge2)
 
 [React Portfolio](http://DuckArroyo.github.io/challenge20)
@@ -65,8 +70,6 @@ DeveloperDuckArroyo
 [LinkeIn](https://www.linkedin.com/in/duckarroyo)
 
 [CodePen](https://codepen.io/DeveloperDuckArroyo)
-
-[Email](mailto:DeveloperDuckArroyo@gmail.com)
 
 # Screnshots
 

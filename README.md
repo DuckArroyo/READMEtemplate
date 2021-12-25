@@ -1,4 +1,6 @@
-# Project name ![GitHublicense](https://img.shields.io/npm/l/express?style=for-the-badge)
+# Project name 
+
+![GitHublicense](https://img.shields.io/npm/l/express?style=for-the-badge)
 
 ## UO Coding bootcamp Challenge
 

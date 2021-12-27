@@ -1,3 +1,6 @@
+<link rel="icon" href="" />
+<title>App name</title>
+
 # Project name 
 
 ![GitHublicense](https://img.shields.io/npm/l/express?style=for-the-badge)
@@ -57,18 +60,18 @@ DeveloperDuckArroyo
 
 [Email](mailto:DeveloperDuckArroyo@gmail.com)
 
-[Portfolio](https://duckarroyo.github.io/challenge2)
+[Portfolio](https://github.com/DuckArroyo/portfolio)
 
-[React Portfolio](http://DuckArroyo.github.io/challenge20)
+[React Portfolio](http://DuckArroyo.github.io/reactPortfolio)
 
 [GitHub](https://github.com/DuckArroyo)
 
 [Twitter @DevDuckArroyo](https://twitter.com/DevDuckArroyo)
 
-[LinkeIn](https://www.linkedin.com/in/duckarroyo)
+[LinkedIn](https://www.linkedin.com/in/duckarroyo)
 
 [CodePen](https://codepen.io/DeveloperDuckArroyo)
 
-# Screnshots
+# Screenshots
 
 <img src="./.png" style="width: 400px">

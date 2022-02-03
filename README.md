@@ -5,9 +5,6 @@
 
 ![GitHublicense](https://img.shields.io/npm/l/express?style=for-the-badge)
 
-## UO Coding bootcamp Challenge
-
-
 ## Description
 
 
@@ -20,7 +17,7 @@
 [Heroku]()
 
 ## Required installations for code duplication
-
+```
 npm - npm install
 
 .env - npm install dotenv
@@ -44,15 +41,17 @@ Mongoose - npm install mongoose
 mysql2 - npm install mysql2
 
 sequelize - npm install sequelize
+```
 
 ## The commandments
-
+```
 "scripts": {
 "watch": "nodemon server.js",
 "test": "jest",
 "start": "node server.js",
 "seed": "node seeds/index.js"
 },
+```
 
 # Contributions by:
 
